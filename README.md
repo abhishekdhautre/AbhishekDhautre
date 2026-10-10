@@ -5,7 +5,7 @@
 I'm a B.Tech Information Technology student focused on building modern web
 and mobile applications.
 
-I enjoy turning ideas into functional products — from the first UI component
+I enjoy turning ideas into functional products from the first UI component
 to authentication, databases, APIs and deployment.
 
 ---
