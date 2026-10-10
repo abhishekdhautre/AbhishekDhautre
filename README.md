@@ -1,12 +1,12 @@
-# Hi, I'm Abhishek 👋
+# Hi, I'm Abhishek Dhautre 👋
 
-### Full-Stack Developer | React & React Native | Building practical products
+### Full-Stack Developer | React | React Native | Node.js
 
-I'm a B.Tech Information Technology student focused on building modern web
-and mobile applications.
+I'm a B.Tech Information Technology graduate focused on building modern web and mobile applications.
 
-I enjoy turning ideas into functional products from the first UI component
-to authentication, databases, APIs and deployment.
+I enjoy turning ideas into practical products — from designing the UI and building APIs to authentication, databases, security, and deployment.
+
+🌐 **Portfolio:** [abhishek-dhautre-portfolio.vercel.app](https://abhishek-dhautre-portfolio.vercel.app/)
 
 ---
 
@@ -14,81 +14,141 @@ to authentication, databases, APIs and deployment.
 
 - 🌐 Full-Stack Web Applications
 - 📱 React Native Mobile Applications
-- 🔥 Firebase-powered applications
-- 🔐 Secure & privacy-focused applications
-- 🤖 AI-powered developer tools
-- ☁️ Cloud-ready applications
+- 🔥 Firebase-powered Applications
+- 🔐 Security & Privacy-focused Applications
+- 🤖 AI-powered Developer Tools
+- ☁️ Cloud-ready Applications
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-JavaScript • TypeScript • Java • Python • SQL
+`JavaScript` `TypeScript` `Java` `Python` `SQL`
 
 ### Frontend
-React • Next.js • HTML • CSS
+`React` `Next.js` `HTML` `CSS`
 
 ### Mobile
-React Native
+`React Native`
 
-### Backend & Database
-Node.js • Express.js • Firebase • Firestore • Realtime Database
+### Backend
+`Node.js` `Express.js`
 
-### Tools & Platforms
-Git • GitHub • Vercel • AWS • Postman
+### Database & Services
+`Firebase` `Firestore` `Realtime Database` `MySQL`
 
----
-
-## 🔥 Featured Projects
-
-### Skill Circle
-A peer-to-peer skill exchange platform where users can
-learn and teach skills through a collaborative community.
-
-**Tech:** React, Firebase, Firestore, Framer Motion
+### Cloud & Tools
+`AWS` `Vercel` `Git` `GitHub`
 
 ---
 
-### FixIt
-A DIY repair assistant designed to help users identify,
-understand and repair household products.
+## ⭐ Featured Projects
 
-**Tech:** React Native, Node.js, Firebase, Computer Vision
+### 🎓 Skill Circle
+**Peer-to-peer skill exchange platform**
 
----
+A platform that allows users to share their skills, discover other learners, and connect through a structured skill-exchange system.
 
-### Private Coded Chat
-A privacy-focused real-time messaging application using
-client-side encryption and disappearing messages.
+**Tech:** React · Firebase · Firestore · JavaScript
 
-**Tech:** Next.js, TypeScript, Firebase, Web Crypto API
+🏆 **Best Project Award**
 
----
-
-### Faculty Expense Management
-A web application for managing faculty expense workflows,
-including advance applications, settlements and reimbursements.
-
-**Tech:** React, Firebase, Firestore
+🔗 [Live Project](https://skill-circle-kappa.vercel.app/)
 
 ---
 
-## 📈 Currently
+### 🔐 Private Coded Chat
 
-- 🎓 Completing my B.Tech in Information Technology
-- 💻 Building full-stack and mobile applications
-- 📚 Strengthening DSA, system design and backend development
-- 🚀 Preparing for software development opportunities
+A privacy-focused two-person messaging application designed around client-side encryption and secure communication.
+
+**Highlights:**
+- End-to-end encrypted messages
+- AES-256-GCM encryption
+- PBKDF2 key derivation
+- Firebase Realtime Database
+- Disappearing messages
+- Privacy-focused UI
+- Encrypted media support
+
+**Tech:** Next.js · React · TypeScript · Firebase · Web Crypto API
+
+---
+
+### 🔧 FixIt — DIY Repair Assistant
+
+A mobile application designed to help users diagnose and repair everyday problems.
+
+**Planned capabilities include:**
+- Repair guidance
+- AR-based assistance
+- Parts finder
+- Cost estimation
+- OCR-based identification
+
+**Tech:** React Native · Node.js · Firebase · ML Kit
+
+---
+
+### 💼 Faculty Expense Tracker
+
+A web application designed to simplify faculty expense and reimbursement workflows.
+
+**Features include:**
+- Advance applications
+- Advance settlement
+- Reimbursement forms
+- Firebase-backed data management
+- Structured form workflows
+
+**Tech:** React · Firebase · Firestore
+
+---
+
+### 🏢 Society Management App
+
+A mobile application concept for managing residential society activities and communication.
+
+**Tech:** React Native · Firebase
+
+---
+
+## 📌 Currently Exploring
+
+- Advanced React & Next.js
+- React Native application development
+- Backend architecture
+- Cloud technologies
+- Application security
+- AI-powered developer tools
+- System design
+
+---
+
+## 📊 GitHub
+
+I use GitHub to build, experiment, learn, and document projects across web development, mobile development, backend systems, and emerging technologies.
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/abhishek-dhautre
-- 🌐 Portfolio: [Coming Soon]
-- 📧 Email: abhidhautre@gmail.com
+**Portfolio:**  
+https://abhishek-dhautre-portfolio.vercel.app/
+
+**LinkedIn:**  
+https://www.linkedin.com/in/abhishek-dhautre/
+
+**GitHub:**  
+https://github.com/abhishekdhautre
+
+**LeetCode:**  
+https://leetcode.com/u/Abhi_Dhautre/
 
 ---
 
-> Build. Learn. Ship. Repeat.
+### 💡 Open to Opportunities
+
+I'm currently looking for **entry-level opportunities in Software Development, Full-Stack Development, Frontend Development, and React/React Native development.**
+
+If you're working on something interesting or hiring for a developer role, feel free to connect.
